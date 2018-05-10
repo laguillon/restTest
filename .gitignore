@@ -62,3 +62,4 @@ fabric.properties
 
 # OSX
 .DS_Store
+target/
