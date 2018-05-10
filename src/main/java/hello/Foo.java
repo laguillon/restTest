@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 
 public class Foo {
 	
-	public String Print()
+	public String print()
 	{
 		return "blah";
 	}

@@ -32,6 +32,6 @@ public class GreetingController {
     @RequestMapping("/foo")
     public String foo()
     {
-    	return foo.Print();
+    	return foo.print();
     }
 }
